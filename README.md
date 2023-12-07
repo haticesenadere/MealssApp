@@ -10,9 +10,9 @@ Bu içerisinde mükemmel türk yemeklerinin sihirli tariflerini barındıran bir
 Aynı zaman da bana birden fazla widget'ı öğreten de uygulama. 
 
 
-Hello. Welcome my project
 # mealssapp
 
+Hello. Welcome my project.
 A new and delicious flutter project. 
 
 ## Getting Started
