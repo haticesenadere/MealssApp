@@ -1,16 +1,24 @@
+Merhbalar. Projeme hoşgeldiniz. 
 # mealssapp
 
-A new Flutter project.
+Yeni ve lezzetli bir flutter projesi. 
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Bu içerisinde mükemmel türk yemeklerinin sihirli tariflerini barındıran bir uygulama.
 
-A few resources to get you started if this is your first Flutter project:
+Aynı zaman da bana birden fazla widget'ı öğreten de uygulama. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hello. Welcome my project
+# mealssapp
+
+A new and delicious flutter project. 
+
+## Getting Started
+
+This is an app that contains magical recipes for excellent Turkish food.
+
+It's also the app that taught me more than one widget. 
+
+
